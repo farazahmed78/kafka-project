@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+C:\Users\Faraz Java\Documents\Kafka_Project\.metadata\.plugins\org.eclipse.jdt.core
+847042532.index
+3931310617.index
+3236902827.index
+141001467.index
+2808275840.index
+1934458497.index
+3146559087.index
+3925217978.index
+1865797976.index
+1098099000.index
